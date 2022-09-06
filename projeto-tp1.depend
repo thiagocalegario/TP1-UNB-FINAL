@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1662436217 source:c:\users\eduardo\downloads\final-main\final-main\container.cpp
+	"container.h"
+
+1662436217 c:\users\eduardo\downloads\final-main\final-main\container.h
+	<string>
+	<unordered_map>
+	"Dominios.h"
+	"Entidades.h"
+
+1662436217 c:\users\eduardo\downloads\final-main\final-main\dominios.h
+	<string>
+	<regex>
+
+1662436217 c:\users\eduardo\downloads\final-main\final-main\entidades.h
+	"Dominios.h"
+
+1662436217 source:c:\users\eduardo\downloads\final-main\final-main\controlesservico.cpp
+	<unordered_map>
+	"ControlesServico.h"
+	"container.h"
+
+1662436217 c:\users\eduardo\downloads\final-main\final-main\controlesservico.h
+	<string>
+	"Dominios.h"
+	"Entidades.h"
+	"Interfaces.h"
+
+1662436217 c:\users\eduardo\downloads\final-main\final-main\interfaces.h
+	<string>
+	"Dominios.h"
+	"Entidades.h"
+
+1662465987 source:c:\users\eduardo\downloads\final-main\final-main\dominios.cpp
+	"dominios.h"
+
+1662436217 source:c:\users\eduardo\downloads\final-main\final-main\entidades.cpp
+	"Entidades.h"
+
+1662436217 source:c:\users\eduardo\downloads\final-main\final-main\main.cpp
+	<stdexcept>
+	<iostream>
+	<regex>
+	"Dominios.h"
+	"Entidades.h"
+	"Interfaces.h"
+	"ControlesApresentacao.h"
+	"ControlesServico.h"
+
+1662436217 c:\users\eduardo\downloads\final-main\final-main\controlesapresentacao.h
+	"Dominios.h"
+	"Entidades.h"
+	"Interfaces.h"
+
